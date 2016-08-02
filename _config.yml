@@ -23,7 +23,7 @@ description: Material Science Discussion Group of IIT Madras
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutus"
+  Blog : "blog"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
