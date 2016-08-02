@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UPCOMING SESSIONS
+title: Schedule 
 ---
 
 The topic for this semester will be 'Phase field modelling'. 
