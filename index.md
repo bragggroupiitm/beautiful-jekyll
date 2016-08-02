@@ -8,7 +8,7 @@ subtitle: MME, IITM
 
 ### Vision 
 
-“ Understand, develop and apply physical laws based on sound mathematical footing to problems in the science and engineering of materials.”
+Understand, develop and apply physical laws based on sound mathematical footing to problems in the science and engineering of materials.
 
 ### Mission
 
@@ -23,14 +23,14 @@ To initiate healthy debates and discussions among its participants and invoke qu
 ### Previous and Current Members 
 
 #### Students 
-AVS Nikhil, Aaditya Lakshmanan, Asmita Jana, Srihari Sundar, Deepak Kamal, Siddharth Kumar, Aditya Srinivasan, Vivek Verma, ARG Sreekar, Vishal Subbaiya, Rama Srinivas, Vijay Bharadwaj, Jaswanth B, Naveen S, Vishal, Chanakya Kapil, Srikanth T 
+AVS Nikhil, Aaditya Lakshmanan, Asmita Jana, Srihari Sundar, Deepak Kamal, Siddharth Kumar, Abhishek Shandilya, Aditya Srinivasan, Vivek Verma, ARG Sreekar, Vishal Subbaiya, Rama Srinivas, Vijay Bharadwaj, Jaswanth B, Naveen S, Vishal, Chanakya Kapil, Srikanth T 
 
 #### Professors
 Anand K Kanjarla, Gandham Phanikumar, Parasuraman Swaminathan, Sreeram Kalpathy, Tiju Thomas, Sundararaman Mahadevan
 
 ### Topics discussed 
 
-Phonons 
-Fourier Series and Fourier Transforms
-Linear Algebra
-Quantum Mechanics
+-Phonons 
+-Fourier Series and Fourier Transforms
+-Linear Algebra
+-Quantum Mechanics
