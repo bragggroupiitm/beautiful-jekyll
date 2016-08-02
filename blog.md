@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bragg Group IIT Madras
-subtitle: Material Science Discussion Group of IIT Madras
+title: Blog
+subtitle: get enlightened!
 ---
 
 <div class="posts-list">
