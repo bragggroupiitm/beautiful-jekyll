@@ -30,7 +30,7 @@ Anand K Kanjarla, Gandham Phanikumar, Parasuraman Swaminathan, Sreeram Kalpathy,
 
 ### Topics discussed 
 
--Phonons 
--Fourier Series and Fourier Transforms
--Linear Algebra
--Quantum Mechanics
+- Phonons 
+- Fourier Series and Fourier Transforms
+- Linear Algebra
+- Quantum Mechanics
