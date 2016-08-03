@@ -23,7 +23,7 @@ To initiate healthy debates and discussions among its participants and invoke qu
 ### Previous and Current Members 
 
 #### Students 
-AVS Nikhil, Aaditya Lakshmanan, Asmita Jana, Srihari Sundar, Deepak Kamal, Siddharth Kumar, Abhishek Shandilya, Aditya Srinivasan, Vivek Verma, ARG Sreekar, Vishal Subbaiya, Rama Srinivas, Vijay Bharadwaj, Jaswanth B, Naveen S, Vishal, Chanakya Kapil, Srikanth T 
+AVS Nikhil, Aaditya Lakshmanan, Asmita Jana, Srihari Sundar, Deepak Kamal, Siddharth Kumar, Abhishek Shandilya, Aditya Srinivasan, Vivek Verma, ARG Sreekar, Vishal Subbaiya, Rama Srinivas, Vijay Bharadwaj, Jaswanth B, Naveen S, Vishal, Chanakya, Kapil, Srikanth T 
 
 #### Professors
 Anand K Kanjarla, Gandham Phanikumar, Parasuraman Swaminathan, Sreeram Kalpathy, Tiju Thomas, Sundararaman Mahadevan
